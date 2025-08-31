@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/varshinimane/DSA-Java/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/varshinimane/DSA-Java/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varshinimane/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/varshinimane/DSA-Java/tree/master/0238-product-of-array-except-self) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/varshinimane/DSA-Java/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/varshinimane/DSA-Java/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/varshinimane/DSA-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/varshinimane/DSA-Java/tree/master/0287-find-the-duplicate-number) |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/varshinimane/DSA-Java/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/varshinimane/DSA-Java/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
