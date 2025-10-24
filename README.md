@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshinimane/DSA-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/varshinimane/DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/varshinimane/DSA-Java/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varshinimane/DSA-Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/2058-concatenation-of-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/varshinimane/DSA-Java/tree/master/2358-number-of-ways-to-split-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/varshinimane/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/varshinimane/DSA-Java/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1603-running-sum-of-1d-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/varshinimane/DSA-Java/tree/master/2358-number-of-ways-to-split-array) |
 ## Two Pointers
 |  |
