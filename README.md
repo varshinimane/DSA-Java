@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/varshinimane/DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/varshinimane/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/varshinimane/DSA-Java/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varshinimane/DSA-Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/2058-concatenation-of-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/varshinimane/DSA-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/varshinimane/DSA-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/varshinimane/DSA-Java/tree/master/0287-find-the-duplicate-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/varshinimane/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/varshinimane/DSA-Java/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
