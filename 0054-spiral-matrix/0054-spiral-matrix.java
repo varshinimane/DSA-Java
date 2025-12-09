@@ -13,26 +13,26 @@ class Solution {
         int left = 0, right = n - 1;
 
         while(top <= bottom && left <= right){
-            for(int i = left;i <= right;i++){
-                result.add(matrix[top][i]);
+            for(int c = left;c <= right;c++){ 
+                result.add(matrix[top][c]); //row is const and columns are changing 
             }
             top++;
 
-            for(int i = top;i <= bottom;i++){
-                result.add(matrix[i][right]);
+            for(int r = top;r <= bottom;r++){
+                result.add(matrix[r][right]); //column is const and row is changing
             }
             right--;
 
             if(top <= bottom){
-                for(int i = right;i >= left;i--){
-                    result.add(matrix[bottom][i]);
+                for(int c = right;c >= left;c--){
+                    result.add(matrix[bottom][c]); //row is const
                 }
                 bottom--;
             }
 
             if(left <= right){
-                for(int i = bottom;i >= top;i--){
-                    result.add(matrix[i][left]);
+                for(int r = bottom;r >= top;r--){
+                    result.add(matrix[r][left]); //column is const
                 }
                 left++;
             }
