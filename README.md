@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/varshinimane/DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/varshinimane/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/varshinimane/DSA-Java/tree/master/0724-find-pivot-index) |
+| [0885-spiral-matrix-iii](https://github.com/varshinimane/DSA-Java/tree/master/0885-spiral-matrix-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varshinimane/DSA-Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/varshinimane/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/varshinimane/DSA-Java/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/varshinimane/DSA-Java/tree/master/0073-set-matrix-zeroes) |
+| [0885-spiral-matrix-iii](https://github.com/varshinimane/DSA-Java/tree/master/0885-spiral-matrix-iii) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/varshinimane/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/varshinimane/DSA-Java/tree/master/0059-spiral-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/varshinimane/DSA-Java/tree/master/0885-spiral-matrix-iii) |
 | [2058-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
