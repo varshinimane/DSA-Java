@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/varshinimane/DSA-Java/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshinimane/DSA-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/varshinimane/DSA-Java/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/varshinimane/DSA-Java/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/varshinimane/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/varshinimane/DSA-Java/tree/master/0724-find-pivot-index) |
 | [0885-spiral-matrix-iii](https://github.com/varshinimane/DSA-Java/tree/master/0885-spiral-matrix-iii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/varshinimane/DSA-Java/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/varshinimane/DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/varshinimane/DSA-Java/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/varshinimane/DSA-Java/tree/master/0498-diagonal-traverse) |
 | [0885-spiral-matrix-iii](https://github.com/varshinimane/DSA-Java/tree/master/0885-spiral-matrix-iii) |
 ## Math
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/varshinimane/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/varshinimane/DSA-Java/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/varshinimane/DSA-Java/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/varshinimane/DSA-Java/tree/master/0498-diagonal-traverse) |
 | [0885-spiral-matrix-iii](https://github.com/varshinimane/DSA-Java/tree/master/0885-spiral-matrix-iii) |
 | [2058-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
