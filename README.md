@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varshinimane/DSA-Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/2058-concatenation-of-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/varshinimane/DSA-Java/tree/master/2358-number-of-ways-to-split-array) |
 ## Prefix Sum
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/varshinimane/DSA-Java/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/varshinimane/DSA-Java/tree/master/0498-diagonal-traverse) |
 | [0885-spiral-matrix-iii](https://github.com/varshinimane/DSA-Java/tree/master/0885-spiral-matrix-iii) |
+| [1929-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
