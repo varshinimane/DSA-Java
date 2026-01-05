@@ -23,5 +23,6 @@ class Solution {
                 total += sum;
         }
         return total;
+
     }
 }
