@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/varshinimane/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varshinimane/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varshinimane/DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/varshinimane/DSA-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0845-longest-mountain-in-array](https://github.com/varshinimane/DSA-Java/tree/master/0845-longest-mountain-in-array) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/varshinimane/DSA-Java/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/varshinimane/DSA-Java/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/varshinimane/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/varshinimane/DSA-Java/tree/master/0043-multiply-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshinimane/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/varshinimane/DSA-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/varshinimane/DSA-Java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
