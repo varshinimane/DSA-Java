@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varshinimane/DSA-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/varshinimane/DSA-Java/tree/master/0989-add-to-array-form-of-integer) |
+| [1266-minimum-time-visiting-all-points](https://github.com/varshinimane/DSA-Java/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/varshinimane/DSA-Java/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/varshinimane/DSA-Java/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1603-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1603-running-sum-of-1d-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/varshinimane/DSA-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/varshinimane/DSA-Java/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/varshinimane/DSA-Java/tree/master/0989-add-to-array-form-of-integer) |
+| [1266-minimum-time-visiting-all-points](https://github.com/varshinimane/DSA-Java/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/varshinimane/DSA-Java/tree/master/1390-four-divisors) |
 ## Trie
 |  |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/varshinimane/DSA-Java/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/varshinimane/DSA-Java/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
