@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/varshinimane/DSA-Java/tree/master/2358-number-of-ways-to-split-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/varshinimane/DSA-Java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/varshinimane/DSA-Java/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/varshinimane/DSA-Java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/varshinimane/DSA-Java/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/varshinimane/DSA-Java/tree/master/3454-separate-squares-ii) |
 ## Prefix Sum
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/varshinimane/DSA-Java/tree/master/0989-add-to-array-form-of-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/varshinimane/DSA-Java/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/varshinimane/DSA-Java/tree/master/1390-four-divisors) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/varshinimane/DSA-Java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Trie
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/varshinimane/DSA-Java/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/varshinimane/DSA-Java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Segment Tree
 |  |
 | ------- |
