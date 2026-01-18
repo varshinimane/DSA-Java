@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/varshinimane/DSA-Java/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1603-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varshinimane/DSA-Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-largest-magic-square](https://github.com/varshinimane/DSA-Java/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/varshinimane/DSA-Java/tree/master/1975-maximum-matrix-sum) |
 | [2058-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/2058-concatenation-of-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/varshinimane/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/varshinimane/DSA-Java/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1603-running-sum-of-1d-array) |
+| [1895-largest-magic-square](https://github.com/varshinimane/DSA-Java/tree/master/1895-largest-magic-square) |
 | [2358-number-of-ways-to-split-array](https://github.com/varshinimane/DSA-Java/tree/master/2358-number-of-ways-to-split-array) |
 ## Two Pointers
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/varshinimane/DSA-Java/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/varshinimane/DSA-Java/tree/master/0498-diagonal-traverse) |
 | [0885-spiral-matrix-iii](https://github.com/varshinimane/DSA-Java/tree/master/0885-spiral-matrix-iii) |
+| [1895-largest-magic-square](https://github.com/varshinimane/DSA-Java/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/varshinimane/DSA-Java/tree/master/1975-maximum-matrix-sum) |
 ## Math
 |  |
