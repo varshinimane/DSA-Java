@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/varshinimane/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/varshinimane/DSA-Java/tree/master/0724-find-pivot-index) |
 | [0845-longest-mountain-in-array](https://github.com/varshinimane/DSA-Java/tree/master/0845-longest-mountain-in-array) |
+| [0867-transpose-matrix](https://github.com/varshinimane/DSA-Java/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/varshinimane/DSA-Java/tree/master/0885-spiral-matrix-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varshinimane/DSA-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/varshinimane/DSA-Java/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/varshinimane/DSA-Java/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/varshinimane/DSA-Java/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/varshinimane/DSA-Java/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/varshinimane/DSA-Java/tree/master/0885-spiral-matrix-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/varshinimane/DSA-Java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/varshinimane/DSA-Java/tree/master/1895-largest-magic-square) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varshinimane/DSA-Java/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/varshinimane/DSA-Java/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/varshinimane/DSA-Java/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/varshinimane/DSA-Java/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/varshinimane/DSA-Java/tree/master/0885-spiral-matrix-iii) |
 | [1929-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/2058-concatenation-of-array) |
