@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/varshinimane/DSA-Java/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/varshinimane/DSA-Java/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/varshinimane/DSA-Java/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/varshinimane/DSA-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/varshinimane/DSA-Java/tree/master/0189-rotate-array) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/varshinimane/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/varshinimane/DSA-Java/tree/master/0061-rotate-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/varshinimane/DSA-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
