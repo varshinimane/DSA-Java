@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/varshinimane/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/varshinimane/DSA-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/varshinimane/DSA-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/varshinimane/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
