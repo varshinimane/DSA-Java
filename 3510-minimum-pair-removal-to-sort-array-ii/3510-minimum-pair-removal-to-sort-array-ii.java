@@ -1,68 +1,82 @@
 import java.util.*;
 
 class Solution {
+
+    static class Node implements Comparable<Node> {
+        long sum;
+        int index;
+
+        Node(long sum, int index) {
+            this.sum = sum;
+            this.index = index;
+        }
+
+ 
+        public int compareTo(Node other) {
+            if (this.sum != other.sum) {
+                return Long.compare(this.sum, other.sum);
+            }
+            // Tie-breaker: choose the leftmost index
+            return Integer.compare(this.index, other.index);
+        }
+    }
+
     public int minimumPairRemoval(int[] nums) {
         int n = nums.length;
+        if (n <= 1) return 0;
 
-        // Doubly linked list using arrays
-        int[] left = new int[n];
-        int[] right = new int[n];
-        boolean[] alive = new boolean[n];
+        long[] a = new long[n];
+        int[] prev = new int[n];
+        int[] next = new int[n];
+        boolean[] removed = new boolean[n];
 
         for (int i = 0; i < n; i++) {
-            left[i] = i - 1;
-            right[i] = i + 1;
-            alive[i] = true;
+            a[i] = nums[i];
+            prev[i] = i - 1;
+            next[i] = (i + 1 < n) ? i + 1 : -1;
         }
-        right[n - 1] = -1;
 
-        // Min-heap of (sum, index)
-        PriorityQueue<long[]> pq =
-            new PriorityQueue<>(Comparator.comparingLong(a -> a[0]));
-
+        PriorityQueue<Node> pq = new PriorityQueue<>();
         for (int i = 0; i < n - 1; i++) {
-            pq.offer(new long[]{(long) nums[i] + nums[i + 1], i});
+            pq.add(new Node(a[i] + a[i + 1], i));
+        }
+
+        int bad = 0;
+        for (int i = 0; i < n - 1; i++) {
+            if (a[i] > a[i + 1]) bad++;
         }
 
         int ops = 0;
 
-        while (true) {
-            // Check if array is already non-decreasing
-            boolean sorted = true;
-            for (int i = 0; i != -1 && right[i] != -1; i = right[i]) {
-                if (nums[i] > nums[right[i]]) {
-                    sorted = false;
-                    break;
-                }
-            }
-            if (sorted) break;
+        while (bad > 0 && !pq.isEmpty()) {
+            Node top = pq.poll();
+            int i = top.index;
+            long sum = top.sum;
 
-            // Take minimum adjacent sum
-            long[] cur;
-            int i;
-            while (true) {
-                cur = pq.poll();
-                i = (int) cur[1];
-                if (alive[i] && right[i] != -1 && alive[right[i]]) break;
-            }
+            if (removed[i] || next[i] == -1) continue;
 
-            int j = right[i];
+            int j = next[i];
+            if (removed[j] || a[i] + a[j] != sum) continue;
 
-            // Merge i and j
-            nums[i] += nums[j];
-            alive[j] = false;
-            right[i] = right[j];
-            if (right[j] != -1) left[right[j]] = i;
+            int pi = prev[i];
+            int nj = next[j];
+
+            if (pi != -1 && a[pi] > a[i]) bad--;
+            if (a[i] > a[j]) bad--;
+            if (nj != -1 && a[j] > a[nj]) bad--;
+
+            a[i] = sum;
+            removed[j] = true;
+            next[i] = nj;
+            if (nj != -1) prev[nj] = i;
+
+            if (pi != -1 && a[pi] > a[i]) bad++;
+            if (nj != -1 && a[i] > a[nj]) bad++;
+
+            if (pi != -1) pq.add(new Node(a[pi] + a[i], pi));
+            if (nj != -1) pq.add(new Node(a[i] + a[nj], i));
 
             ops++;
-
-            // Push new adjacent sums
-            if (left[i] != -1) {
-                pq.offer(new long[]{(long) nums[left[i]] + nums[i], left[i]});
-            }
-            if (right[i] != -1) {
-                pq.offer(new long[]{(long) nums[i] + nums[right[i]], i});
-            }
         }
 
         return ops;
