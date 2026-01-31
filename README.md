@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/varshinimane/DSA-Java/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/varshinimane/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/varshinimane/DSA-Java/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/varshinimane/DSA-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0845-longest-mountain-in-array](https://github.com/varshinimane/DSA-Java/tree/master/0845-longest-mountain-in-array) |
 | [0867-transpose-matrix](https://github.com/varshinimane/DSA-Java/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/varshinimane/DSA-Java/tree/master/0885-spiral-matrix-iii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/varshinimane/DSA-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/varshinimane/DSA-Java/tree/master/0287-find-the-duplicate-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/varshinimane/DSA-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/varshinimane/DSA-Java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/varshinimane/DSA-Java/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/varshinimane/DSA-Java/tree/master/3454-separate-squares-ii) |
