@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/varshinimane/DSA-Java/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varshinimane/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varshinimane/DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/varshinimane/DSA-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/varshinimane/DSA-Java/tree/master/0799-champagne-tower) |
 | [0845-longest-mountain-in-array](https://github.com/varshinimane/DSA-Java/tree/master/0845-longest-mountain-in-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/varshinimane/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/varshinimane/DSA-Java/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/varshinimane/DSA-Java/tree/master/0067-add-binary) |
+| [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshinimane/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/varshinimane/DSA-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/varshinimane/DSA-Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/varshinimane/DSA-Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/varshinimane/DSA-Java/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/varshinimane/DSA-Java/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/varshinimane/DSA-Java/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/varshinimane/DSA-Java/tree/master/0989-add-to-array-form-of-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/varshinimane/DSA-Java/tree/master/1266-minimum-time-visiting-all-points) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/varshinimane/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/varshinimane/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
 ## Graph Theory
 |  |
 | ------- |
@@ -392,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/varshinimane/DSA-Java/tree/master/1382-balance-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
