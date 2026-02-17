@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/varshinimane/DSA-Java/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/varshinimane/DSA-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/varshinimane/DSA-Java/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/varshinimane/DSA-Java/tree/master/0401-binary-watch) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/varshinimane/DSA-Java/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/varshinimane/DSA-Java/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Dynamic Programming
@@ -400,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/varshinimane/DSA-Java/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
