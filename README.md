@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/varshinimane/DSA-Java/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/varshinimane/DSA-Java/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/varshinimane/DSA-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/varshinimane/DSA-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/varshinimane/DSA-Java/tree/master/0287-find-the-duplicate-number) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/varshinimane/DSA-Java/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/varshinimane/DSA-Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/varshinimane/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/varshinimane/DSA-Java/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/varshinimane/DSA-Java/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/varshinimane/DSA-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/varshinimane/DSA-Java/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/varshinimane/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/varshinimane/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
 ## Graph Theory
 |  |
 | ------- |
