@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/varshinimane/DSA-Java/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/varshinimane/DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [0885-spiral-matrix-iii](https://github.com/varshinimane/DSA-Java/tree/master/0885-spiral-matrix-iii) |
+| [0904-fruit-into-baskets](https://github.com/varshinimane/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varshinimane/DSA-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/varshinimane/DSA-Java/tree/master/0989-add-to-array-form-of-integer) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshinimane/DSA-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshinimane/DSA-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/varshinimane/DSA-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/varshinimane/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varshinimane/DSA-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/varshinimane/DSA-Java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/varshinimane/DSA-Java/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/varshinimane/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/varshinimane/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/varshinimane/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/varshinimane/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/varshinimane/DSA-Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/varshinimane/DSA-Java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/varshinimane/DSA-Java/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
