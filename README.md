@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/varshinimane/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/varshinimane/DSA-Java/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/varshinimane/DSA-Java/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/varshinimane/DSA-Java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/varshinimane/DSA-Java/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/varshinimane/DSA-Java/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Dynamic Programming
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/varshinimane/DSA-Java/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/varshinimane/DSA-Java/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/varshinimane/DSA-Java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0989-add-to-array-form-of-integer](https://github.com/varshinimane/DSA-Java/tree/master/0989-add-to-array-form-of-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/varshinimane/DSA-Java/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/varshinimane/DSA-Java/tree/master/1390-four-divisors) |
