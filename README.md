@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/varshinimane/DSA-Java/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/varshinimane/DSA-Java/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1603-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1603-running-sum-of-1d-array) |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/varshinimane/DSA-Java/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/varshinimane/DSA-Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varshinimane/DSA-Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/varshinimane/DSA-Java/tree/master/1895-largest-magic-square) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/varshinimane/DSA-Java/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/varshinimane/DSA-Java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1603-running-sum-of-1d-array) |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/varshinimane/DSA-Java/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1895-largest-magic-square](https://github.com/varshinimane/DSA-Java/tree/master/1895-largest-magic-square) |
 | [2358-number-of-ways-to-split-array](https://github.com/varshinimane/DSA-Java/tree/master/2358-number-of-ways-to-split-array) |
 | [3714-longest-balanced-substring-ii](https://github.com/varshinimane/DSA-Java/tree/master/3714-longest-balanced-substring-ii) |
