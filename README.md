@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/varshinimane/DSA-Java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/varshinimane/DSA-Java/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/varshinimane/DSA-Java/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1480-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1603-running-sum-of-1d-array) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/varshinimane/DSA-Java/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/varshinimane/DSA-Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/varshinimane/DSA-Java/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/varshinimane/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/varshinimane/DSA-Java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1603-running-sum-of-1d-array) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/varshinimane/DSA-Java/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1895-largest-magic-square](https://github.com/varshinimane/DSA-Java/tree/master/1895-largest-magic-square) |
