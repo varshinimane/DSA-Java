@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/varshinimane/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/varshinimane/DSA-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/varshinimane/DSA-Java/tree/master/0724-find-pivot-index) |
+| [0731-my-calendar-ii](https://github.com/varshinimane/DSA-Java/tree/master/0731-my-calendar-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/varshinimane/DSA-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0845-longest-mountain-in-array](https://github.com/varshinimane/DSA-Java/tree/master/0845-longest-mountain-in-array) |
 | [0867-transpose-matrix](https://github.com/varshinimane/DSA-Java/tree/master/0867-transpose-matrix) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/varshinimane/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/varshinimane/DSA-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/varshinimane/DSA-Java/tree/master/0724-find-pivot-index) |
+| [0731-my-calendar-ii](https://github.com/varshinimane/DSA-Java/tree/master/0731-my-calendar-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/varshinimane/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/varshinimane/DSA-Java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1480-running-sum-of-1d-array) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varshinimane/DSA-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/varshinimane/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/varshinimane/DSA-Java/tree/master/0713-subarray-product-less-than-k) |
+| [0731-my-calendar-ii](https://github.com/varshinimane/DSA-Java/tree/master/0731-my-calendar-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/varshinimane/DSA-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/varshinimane/DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/varshinimane/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/varshinimane/DSA-Java/tree/master/0731-my-calendar-ii) |
 | [3454-separate-squares-ii](https://github.com/varshinimane/DSA-Java/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/varshinimane/DSA-Java/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/varshinimane/DSA-Java/tree/master/3721-longest-balanced-subarray-ii) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/varshinimane/DSA-Java/tree/master/0731-my-calendar-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/varshinimane/DSA-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/varshinimane/DSA-Java/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
@@ -443,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/varshinimane/DSA-Java/tree/master/0401-binary-watch) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/varshinimane/DSA-Java/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
