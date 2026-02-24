@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/varshinimane/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varshinimane/DSA-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/varshinimane/DSA-Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/varshinimane/DSA-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/varshinimane/DSA-Java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/varshinimane/DSA-Java/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/varshinimane/DSA-Java/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/varshinimane/DSA-Java/tree/master/0761-special-binary-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/varshinimane/DSA-Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/varshinimane/DSA-Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/varshinimane/DSA-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/varshinimane/DSA-Java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/varshinimane/DSA-Java/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/varshinimane/DSA-Java/tree/master/2977-minimum-cost-to-convert-string-ii) |
