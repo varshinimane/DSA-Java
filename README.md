@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/varshinimane/DSA-Java/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/varshinimane/DSA-Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/2058-concatenation-of-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/varshinimane/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2358-number-of-ways-to-split-array](https://github.com/varshinimane/DSA-Java/tree/master/2358-number-of-ways-to-split-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/varshinimane/DSA-Java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/varshinimane/DSA-Java/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/varshinimane/DSA-Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/varshinimane/DSA-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/varshinimane/DSA-Java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/varshinimane/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/varshinimane/DSA-Java/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/varshinimane/DSA-Java/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/varshinimane/DSA-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/varshinimane/DSA-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/varshinimane/DSA-Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/varshinimane/DSA-Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/varshinimane/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/varshinimane/DSA-Java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/varshinimane/DSA-Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/varshinimane/DSA-Java/tree/master/3634-minimum-removals-to-balance-array) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varshinimane/DSA-Java/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/varshinimane/DSA-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/varshinimane/DSA-Java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/varshinimane/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3713-longest-balanced-substring-i](https://github.com/varshinimane/DSA-Java/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
