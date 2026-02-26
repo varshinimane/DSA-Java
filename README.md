@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/varshinimane/DSA-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varshinimane/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/varshinimane/DSA-Java/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/varshinimane/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/varshinimane/DSA-Java/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/varshinimane/DSA-Java/tree/master/0073-set-matrix-zeroes) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varshinimane/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/varshinimane/DSA-Java/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/varshinimane/DSA-Java/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/varshinimane/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/varshinimane/DSA-Java/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/varshinimane/DSA-Java/tree/master/0067-add-binary) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/varshinimane/DSA-Java/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/varshinimane/DSA-Java/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/varshinimane/DSA-Java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/varshinimane/DSA-Java/tree/master/0066-plus-one) |
