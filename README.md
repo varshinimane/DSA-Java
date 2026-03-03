@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/varshinimane/DSA-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/varshinimane/DSA-Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/varshinimane/DSA-Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/varshinimane/DSA-Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/varshinimane/DSA-Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/varshinimane/DSA-Java/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/varshinimane/DSA-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/varshinimane/DSA-Java/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/varshinimane/DSA-Java/tree/master/0885-spiral-matrix-iii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/varshinimane/DSA-Java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/varshinimane/DSA-Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/2058-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/varshinimane/DSA-Java/tree/master/3379-transformed-array) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/varshinimane/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/varshinimane/DSA-Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Graph Theory
 |  |
 | ------- |
