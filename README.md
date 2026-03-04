@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/varshinimane/DSA-Java/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1480-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/varshinimane/DSA-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/varshinimane/DSA-Java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1603-running-sum-of-1d-array) |
 | [1711-count-good-meals](https://github.com/varshinimane/DSA-Java/tree/master/1711-count-good-meals) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/varshinimane/DSA-Java/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/varshinimane/DSA-Java/tree/master/0885-spiral-matrix-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/varshinimane/DSA-Java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/varshinimane/DSA-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/varshinimane/DSA-Java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/varshinimane/DSA-Java/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/varshinimane/DSA-Java/tree/master/1975-maximum-matrix-sum) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/varshinimane/DSA-Java/tree/master/3651-minimum-cost-path-with-teleportations) |
