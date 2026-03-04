@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/varshinimane/DSA-Java/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/varshinimane/DSA-Java/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/varshinimane/DSA-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/varshinimane/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0528-random-pick-with-weight](https://github.com/varshinimane/DSA-Java/tree/master/0528-random-pick-with-weight) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/varshinimane/DSA-Java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/varshinimane/DSA-Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/varshinimane/DSA-Java/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/varshinimane/DSA-Java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/varshinimane/DSA-Java/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/varshinimane/DSA-Java/tree/master/0268-missing-number) |
