@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/varshinimane/DSA-Java/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/varshinimane/DSA-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/varshinimane/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/varshinimane/DSA-Java/tree/master/0696-count-binary-substrings) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/varshinimane/DSA-Java/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/varshinimane/DSA-Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/varshinimane/DSA-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/varshinimane/DSA-Java/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/varshinimane/DSA-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varshinimane/DSA-Java/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/varshinimane/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/varshinimane/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/varshinimane/DSA-Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Graph Theory
