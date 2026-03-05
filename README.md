@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/varshinimane/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/varshinimane/DSA-Java/tree/master/0696-count-binary-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/varshinimane/DSA-Java/tree/master/0845-longest-mountain-in-array) |
+| [0876-middle-of-the-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/varshinimane/DSA-Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
 | [0705-design-hashset](https://github.com/varshinimane/DSA-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varshinimane/DSA-Java/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/varshinimane/DSA-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/varshinimane/DSA-Java/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
