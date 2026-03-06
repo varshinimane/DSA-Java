@@ -550,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/varshinimane/DSA-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varshinimane/DSA-Java/tree/master/0706-design-hashmap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/varshinimane/DSA-Java/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/varshinimane/DSA-Java/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
