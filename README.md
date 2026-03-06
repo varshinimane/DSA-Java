@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/varshinimane/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/varshinimane/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/varshinimane/DSA-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varshinimane/DSA-Java/tree/master/0706-design-hashmap) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/varshinimane/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/varshinimane/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/varshinimane/DSA-Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
