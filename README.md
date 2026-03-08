@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/varshinimane/DSA-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/varshinimane/DSA-Java/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/varshinimane/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/varshinimane/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/varshinimane/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/varshinimane/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/varshinimane/DSA-Java/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/varshinimane/DSA-Java/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/varshinimane/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0344-reverse-string](https://github.com/varshinimane/DSA-Java/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshinimane/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
