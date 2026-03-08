@@ -3,21 +3,21 @@ class Solution {
         if(s.isEmpty()){
             return true;
         }
-        int start = 0;
-        int last = s.length() - 1;
-        while(start <= last){
-            char currfirst = s.charAt(start);
-            char currlast = s.charAt(last);
-            if(!Character.isLetterOrDigit(currfirst)){
-                start++;
-            } else if(!Character.isLetterOrDigit(currlast)){
-                last--;
-            } else {
-                if(Character.toLowerCase(currfirst) != Character.toLowerCase(currlast)){
+        int left = 0;
+        int right = s.length() - 1;
+        while(left <= right){
+            char first = s.charAt(left);
+            char last = s.charAt(right);
+            if(!Character.isLetterOrDigit(first)){
+                left ++;
+            } else if(!Character.isLetterOrDigit(last)){
+                right --;
+            } else{
+                if(Character.toLowerCase(first) != Character.toLowerCase(last)){
                     return false;
                 }
-                start ++;
-                last --;
+                left++;
+                right--;
             }
         }
         return true;
