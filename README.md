@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/varshinimane/DSA-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/varshinimane/DSA-Java/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/varshinimane/DSA-Java/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/varshinimane/DSA-Java/tree/master/0696-count-binary-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/varshinimane/DSA-Java/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/varshinimane/DSA-Java/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/varshinimane/DSA-Java/tree/master/0067-add-binary) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
+| [0344-reverse-string](https://github.com/varshinimane/DSA-Java/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshinimane/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/varshinimane/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/varshinimane/DSA-Java/tree/master/0696-count-binary-substrings) |
