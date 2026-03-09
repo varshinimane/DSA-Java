@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/varshinimane/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/varshinimane/DSA-Java/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/varshinimane/DSA-Java/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/varshinimane/DSA-Java/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/varshinimane/DSA-Java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/varshinimane/DSA-Java/tree/master/0125-valid-palindrome) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/varshinimane/DSA-Java/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0234-palindrome-linked-list) |
