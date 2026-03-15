@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/varshinimane/DSA-Java/tree/master/0989-add-to-array-form-of-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/varshinimane/DSA-Java/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/varshinimane/DSA-Java/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/varshinimane/DSA-Java/tree/master/1622-fancy-sequence) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/varshinimane/DSA-Java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Trie
 |  |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/varshinimane/DSA-Java/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/varshinimane/DSA-Java/tree/master/0732-my-calendar-iii) |
+| [1622-fancy-sequence](https://github.com/varshinimane/DSA-Java/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/varshinimane/DSA-Java/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/varshinimane/DSA-Java/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/varshinimane/DSA-Java/tree/master/3721-longest-balanced-subarray-ii) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/varshinimane/DSA-Java/tree/master/0706-design-hashmap) |
 | [0731-my-calendar-ii](https://github.com/varshinimane/DSA-Java/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/varshinimane/DSA-Java/tree/master/0732-my-calendar-iii) |
+| [1622-fancy-sequence](https://github.com/varshinimane/DSA-Java/tree/master/1622-fancy-sequence) |
 ## Randomized
 |  |
 | ------- |
