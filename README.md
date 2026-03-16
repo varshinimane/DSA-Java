@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/varshinimane/DSA-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/varshinimane/DSA-Java/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/varshinimane/DSA-Java/tree/master/1302-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/varshinimane/DSA-Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/varshinimane/DSA-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/varshinimane/DSA-Java/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/varshinimane/DSA-Java/tree/master/1302-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/varshinimane/DSA-Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/varshinimane/DSA-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/varshinimane/DSA-Java/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/varshinimane/DSA-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/varshinimane/DSA-Java/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/varshinimane/DSA-Java/tree/master/1302-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/varshinimane/DSA-Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
