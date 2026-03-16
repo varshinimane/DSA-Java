@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/varshinimane/DSA-Java/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/varshinimane/DSA-Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varshinimane/DSA-Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/varshinimane/DSA-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/varshinimane/DSA-Java/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/varshinimane/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/varshinimane/DSA-Java/tree/master/1975-maximum-matrix-sum) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/varshinimane/DSA-Java/tree/master/1603-running-sum-of-1d-array) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/varshinimane/DSA-Java/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/varshinimane/DSA-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/varshinimane/DSA-Java/tree/master/1895-largest-magic-square) |
 | [2358-number-of-ways-to-split-array](https://github.com/varshinimane/DSA-Java/tree/master/2358-number-of-ways-to-split-array) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/varshinimane/DSA-Java/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/varshinimane/DSA-Java/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/varshinimane/DSA-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/varshinimane/DSA-Java/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/varshinimane/DSA-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/varshinimane/DSA-Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/varshinimane/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/varshinimane/DSA-Java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/varshinimane/DSA-Java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/varshinimane/DSA-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/varshinimane/DSA-Java/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/varshinimane/DSA-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/varshinimane/DSA-Java/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/varshinimane/DSA-Java/tree/master/1975-maximum-matrix-sum) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/varshinimane/DSA-Java/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/varshinimane/DSA-Java/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/varshinimane/DSA-Java/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/varshinimane/DSA-Java/tree/master/1622-fancy-sequence) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/varshinimane/DSA-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/varshinimane/DSA-Java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Trie
 |  |
@@ -537,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/varshinimane/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/varshinimane/DSA-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/varshinimane/DSA-Java/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/varshinimane/DSA-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/varshinimane/DSA-Java/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
