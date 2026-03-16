@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/varshinimane/DSA-Java/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0654-maximum-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/varshinimane/DSA-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/varshinimane/DSA-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/varshinimane/DSA-Java/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/varshinimane/DSA-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/varshinimane/DSA-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/varshinimane/DSA-Java/tree/master/1110-delete-nodes-and-return-forest) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/varshinimane/DSA-Java/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0654-maximum-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/varshinimane/DSA-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/varshinimane/DSA-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
