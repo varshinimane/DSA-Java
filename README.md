@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0654-maximum-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/varshinimane/DSA-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0998-maximum-binary-tree-ii](https://github.com/varshinimane/DSA-Java/tree/master/0998-maximum-binary-tree-ii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/varshinimane/DSA-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/varshinimane/DSA-Java/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/varshinimane/DSA-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0654-maximum-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/varshinimane/DSA-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0998-maximum-binary-tree-ii](https://github.com/varshinimane/DSA-Java/tree/master/0998-maximum-binary-tree-ii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/varshinimane/DSA-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/varshinimane/DSA-Java/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/varshinimane/DSA-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
