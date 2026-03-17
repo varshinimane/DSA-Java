@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varshinimane/DSA-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/varshinimane/DSA-Java/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varshinimane/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varshinimane/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varshinimane/DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/varshinimane/DSA-Java/tree/master/0134-gas-station) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/varshinimane/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/varshinimane/DSA-Java/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/varshinimane/DSA-Java/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varshinimane/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/varshinimane/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/varshinimane/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/varshinimane/DSA-Java/tree/master/0169-majority-element) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/varshinimane/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/varshinimane/DSA-Java/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varshinimane/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/varshinimane/DSA-Java/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/varshinimane/DSA-Java/tree/master/0190-reverse-bits) |
 | [0654-maximum-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0654-maximum-binary-tree) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/varshinimane/DSA-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varshinimane/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/varshinimane/DSA-Java/tree/master/0113-path-sum-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/varshinimane/DSA-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varshinimane/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/varshinimane/DSA-Java/tree/master/0113-path-sum-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
