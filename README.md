@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/varshinimane/DSA-Java/tree/master/0498-diagonal-traverse) |
 | [0528-random-pick-with-weight](https://github.com/varshinimane/DSA-Java/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/varshinimane/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/varshinimane/DSA-Java/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/varshinimane/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0654-maximum-binary-tree) |
 | [0705-design-hashset](https://github.com/varshinimane/DSA-Java/tree/master/0705-design-hashset) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varshinimane/DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/varshinimane/DSA-Java/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/varshinimane/DSA-Java/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/varshinimane/DSA-Java/tree/master/0605-can-place-flowers) |
 | [1382-balance-a-binary-search-tree](https://github.com/varshinimane/DSA-Java/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/varshinimane/DSA-Java/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/varshinimane/DSA-Java/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
