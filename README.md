@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/varshinimane/DSA-Java/tree/master/1980-find-unique-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/varshinimane/DSA-Java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/varshinimane/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/varshinimane/DSA-Java/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/varshinimane/DSA-Java/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/varshinimane/DSA-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/varshinimane/DSA-Java/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/varshinimane/DSA-Java/tree/master/1980-find-unique-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/varshinimane/DSA-Java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/varshinimane/DSA-Java/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/varshinimane/DSA-Java/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/varshinimane/DSA-Java/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/varshinimane/DSA-Java/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/varshinimane/DSA-Java/tree/master/3713-longest-balanced-substring-i) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/varshinimane/DSA-Java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/varshinimane/DSA-Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/varshinimane/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/varshinimane/DSA-Java/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/varshinimane/DSA-Java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/varshinimane/DSA-Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/varshinimane/DSA-Java/tree/master/3634-minimum-removals-to-balance-array) |
