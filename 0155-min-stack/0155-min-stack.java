@@ -3,7 +3,7 @@ class MinStack {
     Stack<Integer> st = new Stack<>();
     public void push(int val) {
         s.push(val);
-        if(st.isEmpty() || val <= st.peek()) st.push(val);
+        if(st.isEmpty() || st.peek() >= val) st.push(val);
     }
     
     public void pop() {
