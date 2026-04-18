@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varshinimane/DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/varshinimane/DSA-Java/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/varshinimane/DSA-Java/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/varshinimane/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/varshinimane/DSA-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/varshinimane/DSA-Java/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/varshinimane/DSA-Java/tree/master/0217-contains-duplicate) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/varshinimane/DSA-Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/varshinimane/DSA-Java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/varshinimane/DSA-Java/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/varshinimane/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/varshinimane/DSA-Java/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/varshinimane/DSA-Java/tree/master/0268-missing-number) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/varshinimane/DSA-Java/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/varshinimane/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/varshinimane/DSA-Java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0654-maximum-binary-tree) |
