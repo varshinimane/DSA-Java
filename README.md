@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/varshinimane/DSA-Java/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/varshinimane/DSA-Java/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/varshinimane/DSA-Java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0654-maximum-binary-tree) |
 | [1544-make-the-string-great](https://github.com/varshinimane/DSA-Java/tree/master/1544-make-the-string-great) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/varshinimane/DSA-Java/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/varshinimane/DSA-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varshinimane/DSA-Java/tree/master/0706-design-hashmap) |
 | [0731-my-calendar-ii](https://github.com/varshinimane/DSA-Java/tree/master/0731-my-calendar-ii) |
