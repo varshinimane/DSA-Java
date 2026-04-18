@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/varshinimane/DSA-Java/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/varshinimane/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/varshinimane/DSA-Java/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/varshinimane/DSA-Java/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/varshinimane/DSA-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/varshinimane/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/varshinimane/DSA-Java/tree/master/0054-spiral-matrix) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/varshinimane/DSA-Java/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/varshinimane/DSA-Java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/varshinimane/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/varshinimane/DSA-Java/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/varshinimane/DSA-Java/tree/master/0085-maximal-rectangle) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/varshinimane/DSA-Java/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/varshinimane/DSA-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/varshinimane/DSA-Java/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varshinimane/DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/varshinimane/DSA-Java/tree/master/0134-gas-station) |
