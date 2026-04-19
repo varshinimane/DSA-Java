@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/varshinimane/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/varshinimane/DSA-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/varshinimane/DSA-Java/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/varshinimane/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/varshinimane/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/varshinimane/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/varshinimane/DSA-Java/tree/master/0238-product-of-array-except-self) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/varshinimane/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/varshinimane/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0528-random-pick-with-weight](https://github.com/varshinimane/DSA-Java/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/varshinimane/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/varshinimane/DSA-Java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/varshinimane/DSA-Java/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/varshinimane/DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/varshinimane/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/varshinimane/DSA-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/varshinimane/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0528-random-pick-with-weight](https://github.com/varshinimane/DSA-Java/tree/master/0528-random-pick-with-weight) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varshinimane/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/varshinimane/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/varshinimane/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshinimane/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/varshinimane/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
