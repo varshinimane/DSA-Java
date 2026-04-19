@@ -9,11 +9,11 @@ class Solution {
             if(Character.isDigit(ch)){
                 num = num * 10 + (ch - '0');
             } else if(ch == '+'){
-                res += sign * num;
+                res += num * sign;
                 num = 0;
                 sign = 1;
             } else if(ch == '-'){
-                res += sign * num;
+                res += num * sign;
                 num = 0;
                 sign = -1;
             } else if(ch == '('){
@@ -22,13 +22,13 @@ class Solution {
                 res = 0;
                 sign = 1;
             } else if(ch == ')'){
-                res += sign * num;
+                res += num * sign;
                 num = 0;
                 res *= stack.pop();
                 res += stack.pop();
             }
         }
-        res += sign * num;
+        res += num * sign;
         return res;
     }
 }
