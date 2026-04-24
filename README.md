@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/varshinimane/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/varshinimane/DSA-Java/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/varshinimane/DSA-Java/tree/master/0455-assign-cookies) |
+| [0647-palindromic-substrings](https://github.com/varshinimane/DSA-Java/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/varshinimane/DSA-Java/tree/master/0696-count-binary-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/varshinimane/DSA-Java/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/varshinimane/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/varshinimane/DSA-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/varshinimane/DSA-Java/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
+| [0647-palindromic-substrings](https://github.com/varshinimane/DSA-Java/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/varshinimane/DSA-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/varshinimane/DSA-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/varshinimane/DSA-Java/tree/master/0799-champagne-tower) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/varshinimane/DSA-Java/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshinimane/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/varshinimane/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/varshinimane/DSA-Java/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/varshinimane/DSA-Java/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/varshinimane/DSA-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/varshinimane/DSA-Java/tree/master/0761-special-binary-string) |
