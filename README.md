@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/varshinimane/DSA-Java/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/varshinimane/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/varshinimane/DSA-Java/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/varshinimane/DSA-Java/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varshinimane/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varshinimane/DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/varshinimane/DSA-Java/tree/master/0198-house-robber) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/varshinimane/DSA-Java/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/varshinimane/DSA-Java/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/varshinimane/DSA-Java/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/varshinimane/DSA-Java/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/varshinimane/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/varshinimane/DSA-Java/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
