@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/varshinimane/DSA-Java/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varshinimane/DSA-Java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/varshinimane/DSA-Java/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/varshinimane/DSA-Java/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshinimane/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/varshinimane/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/varshinimane/DSA-Java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0654-maximum-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/varshinimane/DSA-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/varshinimane/DSA-Java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/varshinimane/DSA-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/varshinimane/DSA-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/varshinimane/DSA-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/varshinimane/DSA-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/varshinimane/DSA-Java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0654-maximum-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/varshinimane/DSA-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -728,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/varshinimane/DSA-Java/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/varshinimane/DSA-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0705-design-hashset](https://github.com/varshinimane/DSA-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/varshinimane/DSA-Java/tree/master/0706-design-hashmap) |
 | [0731-my-calendar-ii](https://github.com/varshinimane/DSA-Java/tree/master/0731-my-calendar-ii) |
