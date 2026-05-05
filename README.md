@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/varshinimane/DSA-Java/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/varshinimane/DSA-Java/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/varshinimane/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0164-maximum-gap](https://github.com/varshinimane/DSA-Java/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/varshinimane/DSA-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/varshinimane/DSA-Java/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/varshinimane/DSA-Java/tree/master/0198-house-robber) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/varshinimane/DSA-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/varshinimane/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/varshinimane/DSA-Java/tree/master/0147-insertion-sort-list) |
+| [0164-maximum-gap](https://github.com/varshinimane/DSA-Java/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/varshinimane/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/varshinimane/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/varshinimane/DSA-Java/tree/master/0242-valid-anagram) |
@@ -758,4 +760,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/varshinimane/DSA-Java/tree/master/0274-h-index) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/varshinimane/DSA-Java/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/varshinimane/DSA-Java/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
